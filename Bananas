@@ -1,9 +1,14 @@
-!DOCTYPE html>
 <html>
 <head>
-<title>Bananas are the superior fruit</title>
+<title>Bananas: the superior fruit</title>
 </head>
 <body>
 <h1>Bananas are the superior fruit</h1>
 <p>Bananas are the superior fruit due to be unique and filled with nutritions.</p>
+<h2>learn more:</h2>
+<ul>
+<li><a href="why.html">Why bananas are superior</a></li>
+<li><a href="how.html">How bananas benefit you</a></li>
+</ul>
+</body>
 </html>
